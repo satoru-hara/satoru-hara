@@ -40,7 +40,7 @@ HNS-36 provides the internal structure required for alignment with:
 - EU AI Act - High-Risk AI Requirements
 
 Link: Global Standards Interoperability Map  
-https://github.com/satoru-hara/03_NSW/blob/main/Global_Standards_Interoperability_Map.md
+https://github.com/satoru-hara/03_NSW/HNS‑36 Global Standards Interoperability Map.md
 
 ---
 
