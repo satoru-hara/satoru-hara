@@ -6,7 +6,7 @@ I am the architect of HNS-36, a universal coordinate system (6 Layers x 6 Catego
 
 ---
 
-## The Control Tower of Intelligence (11-Volume Canon)
+## The Control Tower of Intelligence
 
 ### HNS - Core Structural OS
 - HNS 1.0 Foundational Specification - Constitution of the 36-Matrix
