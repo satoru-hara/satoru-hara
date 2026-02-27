@@ -39,8 +39,6 @@ HNS-36 provides the internal structure required for alignment with:
 - NIST AI RMF - Risk Management Framework
 - EU AI Act - High-Risk AI Requirements
 
-Link: Global Standards Interoperability Map
-https://github.com/satoru-hara/03_NSW/HNS‑36 Global Standards Interoperability Map.md
 
 ---
 
