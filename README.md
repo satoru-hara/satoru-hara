@@ -6,20 +6,20 @@ I am the architect of HNS-36, a universal coordinate system (6 Layers x 6 Catego
 
 ---
 
-## The Knowledge Tower (11-Volume Canon)
+## The Control Tower of Intelligence (11-Volume Canon)
 
 ### HNS - Core Structural OS
 - HNS 1.0 Foundational Specification - Constitution of the 36-Matrix
 - HNS Technical Note - Operational rules for structural mapping
 
 ### NAW - Cognitive and Interaction Architecture
+- Human Interface Framework - Natural interaction protocols
 - The Natural Brain - Cognitive blueprint for AI alignment
 - BodyOS - Human-system synchronization
-- Human Interface Framework - Natural interaction protocols
 
 ### KFW - Physical and Biological Foundations
+- Fitness Framework / Essential Twelve - Biomechanical standards
 - Original Squat / Core Breathing / Core Stabilization - Physical OS optimization
-- Essential Twelve / Fitness Framework - Biomechanical standards
 
 ---
 
