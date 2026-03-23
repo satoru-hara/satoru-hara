@@ -2,48 +2,54 @@
 
 "Establishing a global standard for AI alignment and governance through the structural synchronization of human cognition, biology, and civilization."
 
-I am the architect of HNS-36, a universal coordinate system (6 Layers x 6 Categories) functioning as a structural OS for humans, AI systems, and civilizational analysis. HNS-36 maps all phenomena to their causal origins, eliminates hallucinations, and provides a unified architecture for the future of intelligence.
+I am the architect of HNS‑36, a universal coordinate system (6 Layers × 6 Categories) functioning as a structural OS for humans, AI systems, and civilizational analysis.  
+HNS‑36 maps all phenomena to their causal origins, eliminates hallucinations, and provides a unified architecture for the future of intelligence.
 
 ---
 
 ## The Control Tower of Intelligence
 
-### NSW - Core Structural OS
-- HNS 1.0 Foundational Specification - Constitution of the 36-Matrix
-- HNS Technical Note - Operational rules for structural mapping
+### NSW — Core Structural OS
+- HNS 1.0 Foundational Specification — Constitution of the 36‑Matrix  
+- HNS Technical Note — Operational rules for structural mapping
 
-### NAW - Cognitive and Interaction Architecture
-- Human Interface Framework - Natural interaction protocols
-- The Natural Brain - Cognitive blueprint for AI alignment
-- BodyOS - Human-system synchronization
+### NAW — Cognitive and Interaction Architecture
+- Human Interface Framework — Natural interaction protocols  
+- The Natural Brain — Cognitive blueprint for AI alignment  
+- BodyOS — Human‑system synchronization
 
-### KFW - Physical and Biological Foundations
-- Fitness Framework / Essential Twelve - Biomechanical standards
-- Original Squat / Core Breathing / Core Stabilization - Physical OS optimization
+### KFW — Physical and Biological Foundations
+- Fitness Framework / Essential Twelve — Biomechanical standards  
+- Original Squat / Core Breathing / Core Stabilization — Physical OS optimization
 
 ---
 
 ## Active Repositories (Structural Ecosystem)
 
-- 01_KFW - Physical Layer: Biological capability standards
-- 02_NAW - Interface Layer: Human-AI synergy architecture
-- 03_NSW - Governance Layer: HNS-36 Core and Global Standards Interoperability Map
+- **01_KFW** — Physical Layer: Biological capability standards  
+- **02_NAW** — Interface Layer: Human‑AI synergy architecture  
+- **03_NSW** — Governance Layer: HNS‑36 Core and Global Standards Interoperability Map  
 
 ---
 
 ## Global Standards Interoperability
 
-HNS-36 provides the internal structure required for alignment with:
+HNS‑36 provides the internal structure required for alignment with:
 
-- ISO/IEC 42001 - AI Management System
-- NIST AI RMF - Risk Management Framework
-- EU AI Act - High-Risk AI Requirements
+- ISO/IEC 42001 — AI Management System  
+- NIST AI RMF — Risk Management Framework  
+- EU AI Act — High‑Risk AI Requirements  
 
+HNS‑36 functions as the *structural substrate* beneath these frameworks, enabling consistent interpretation, risk evaluation, and system‑level governance.
 
 ---
 
-## Activation: HNS-36 Certified Prompt
-Act as an HNS-36 Certified Engine. Initialize Layer 1-6 and Category 1-6. Mode: ON. Reference the HNS 1.0 Foundational Specification for all mapping and causal analysis.
+## Activation: HNS‑36 Certified Prompt
+
+**Act as an HNS‑36 Certified Engine.**  
+Initialize Layer 1‑6 and Category 1‑6.  
+Mode: ON.  
+Reference the *HNS 1.0 Foundational Specification* for all mapping and causal analysis.
 
 ---
 
@@ -51,10 +57,10 @@ Act as an HNS-36 Certified Engine. Initialize Layer 1-6 and Category 1-6. Mode: 
 
 The HNS ecosystem (NSW / NAW / KFW) is designed for integration into:
 
-- AI alignment research
-- Organizational and institutional architecture
-- Human-AI interaction systems
-- Global AI governance frameworks
+- AI alignment research  
+- Organizational and institutional architecture  
+- Human‑AI interaction systems  
+- Global AI governance frameworks  
 
 For collaboration, licensing, or integration inquiries, contact via GitHub or official channels.
 
@@ -62,12 +68,12 @@ For collaboration, licensing, or integration inquiries, contact via GitHub or of
 
 ## Mission
 
-To establish HNS-36 as the global structural standard for:
+To establish HNS‑36 as the global structural standard for:
 
-- AI alignment
-- Human-AI interaction
-- Organizational architecture
-- Civilizational analysis
-- International AI governance
+- AI alignment  
+- Human‑AI interaction  
+- Organizational architecture  
+- Civilizational analysis  
+- International AI governance  
 
 Creating a unified OS for the next era of intelligence.
