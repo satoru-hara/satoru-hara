@@ -7,6 +7,9 @@ HNS‑36 maps all phenomena to their causal origins, eliminates hallucinations, 
 
 ---
 
+### KFW — Physical and Biological Foundations
+- Fitness Framework / Essential Twelve — Biomechanical standards  
+- Original Squat / Core Breathing / Core Stabilization — Physical OS optimization
 ## The Control Tower of Intelligence
 
 ### NSW — Core Structural OS
@@ -18,9 +21,6 @@ HNS‑36 maps all phenomena to their causal origins, eliminates hallucinations, 
 - The Natural Brain — Cognitive blueprint for AI alignment  
 - BodyOS — Human‑system synchronization
 
-### KFW — Physical and Biological Foundations
-- Fitness Framework / Essential Twelve — Biomechanical standards  
-- Original Squat / Core Breathing / Core Stabilization — Physical OS optimization
 
 ---
 
