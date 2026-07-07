@@ -6,11 +6,11 @@ I am the architect of HNS‑36, a universal coordinate system (6 Layers × 6 Cat
 HNS‑36 maps all phenomena to their causal origins, eliminates hallucinations, and provides a unified architecture for the future of intelligence.
 
 ---
+## The Control Tower of Intelligence
 
 ### KFW — Physical and Biological Foundations
 - Fitness Framework / Essential Twelve — Biomechanical standards  
 - Original Squat / Core Breathing / Core Stabilization — Physical OS optimization
-## The Control Tower of Intelligence
 
 ### NSW — Core Structural OS
 - HNS 1.0 Foundational Specification — Constitution of the 36‑Matrix  
