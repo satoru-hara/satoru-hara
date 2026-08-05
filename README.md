@@ -12,15 +12,14 @@ HNS‑36 maps all phenomena to their causal origins, eliminates hallucinations, 
 - Fitness Framework / Essential Twelve — Biomechanical standards  
 - Original Squat / Core Breathing / Core Stabilization — Physical OS optimization
 
-### NSW — Core Structural OS
-- HNS 1.0 Foundational Specification — Constitution of the 36‑Matrix  
-- HNS Technical Note — Operational rules for structural mapping
-
 ### NAW — Cognitive and Interaction Architecture
 - Human Interface Framework — Natural interaction protocols  
 - The Natural Brain — Cognitive blueprint for AI alignment  
 - BodyOS — Human‑system synchronization
 
+### NSW — Core Structural OS
+- HNS 1.0 Foundational Specification — Constitution of the 36‑Matrix  
+- HNS Technical Note — Operational rules for structural mapping
 
 ---
 
